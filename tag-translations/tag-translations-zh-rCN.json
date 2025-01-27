@@ -73,7 +73,7 @@
 "saigado": "彩画堂",
 "nanase meruchi": "ななせめるち",
 "marushin": "丸新",
-"amamiya mizuki": "雨宫ミズキ",
+"amamiya mizuki": "雨宫美月",
 "mibu natsuki": "みぶなつき",
 "ogata zen": "尾形全",
 "himura kiseki": "比村奇石",
@@ -2455,7 +2455,7 @@
 "tsukishima yuuko": "月嶋ゆうこ",
 "tomoshibi hidekazu": "赤提灯",
 "kamisyakujii yubeshi": "紙石神井ゆべし",
-"kurosu gatari": "黑巢ガタリ",
+"kurosu gatari": "黒巣ガタリ",
 "doku denpa": "毒でんぱ",
 "dokiyuri": "どきゆり",
 "tamagoro": "たまごろー",
@@ -9658,7 +9658,7 @@
 "sakakibara kaorunaoko": "榊原薫奈緒子",
 "sakakibara keisuke": "榊原圭介",
 "sakamoto sarutomunto nerima": "坂本サルトムント練馬",
-"sakana": "魚",
+"sakana": "鱼",
 "sakana tomomi": "魚ともみ",
 "sakasana": "さかさな",
 "sakata kintoki": "坂田金時",
@@ -13523,7 +13523,10 @@
 "kamiyama sumu": "神山すむ",
 "tukinon": "月音",
 "yoshida seiji": "吉田诚治",
-"enozuderu": "えのずでる"
+"enozuderu": "えのずでる",
+"huhuhu": "フフフ",
+"shida kazuhiro": "司田一弘",
+"kamiya maaya": "上谷真绫"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -19272,7 +19275,14 @@
 "mirajane strauss": "米拉杰·斯特劳斯",
 "nanashi mumei": "七诗无铭",
 "tetsunosuke ichimura": "市村铁之助",
-"seliph": "神威"
+"seliph": "神威",
+"koala": "克尔拉",
+"cupitan": "库皮坦",
+"pittsburgh": "匹兹堡",
+"seydlitz": "塞德利茨",
+"pennsylvania": "宾夕法尼亚",
+"z9": "Z9",
+"blucher": "布吕歇尔"
 },
 "f": {
 "age progression": "年龄增长",
@@ -35959,7 +35969,9 @@
 "super sentai": "超级战队",
 "brave sword x blaze soul": "勇气之剑 × 火焰之魂",
 "fear and hunger": "恐惧与饥饿",
-"fireball": "火球"
+"fireball": "火球",
+"astralair no shiroki towa": "星辰恋曲的白色永恒",
+"g senjou no maou": "G线上的魔王"
 },
 "r": {
 "doujinshi": "同人志",
