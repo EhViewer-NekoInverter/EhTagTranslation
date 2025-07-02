@@ -18322,7 +18322,7 @@
 "agent": "代理人",
 "welrod mkii": "维尔德MkⅡ",
 "ak-12": "AK-12 | 露契娅",
-"an-94": "AN-94 | 安提娅",
+"an-94": "AN-94 | 埃芙 | 安提娅",
 "kalina": "格琳娜",
 "ump45": "UMP45 | 莱娅",
 "vsk-94": "VSK-94 | 妮基塔",
@@ -18364,7 +18364,7 @@
 "m4a1": "M4A1",
 "m4 sopmod ii": "M4 SOPMODII",
 "m16a1": "M16A1 | 白烨戈",
-"ak-15": "AK-15 | 艾尔文",
+"ak-15": "AK-15 | 威玛西娜 | 艾尔文",
 "rpk-16": "RPK-16 | 蕾娜特 | 恩布拉",
 "nagant revolver": "纳甘左轮 | 纳甘",
 "colt revolver": "柯尔特左轮",
@@ -19560,7 +19560,7 @@
 "cure nyammy": "猫屋敷麻友",
 "millia rage": "米莉亚·蕾姬",
 "kei karuizawa": "轻井泽惠",
-"an94": "AN-94 | 安提娅",
+"an94": "AN-94 | 埃芙 | 安提娅",
 "yuki-onna": "雪女",
 "makiatto": "玛琦朵",
 "kyouko machi": "町京子",
@@ -19996,7 +19996,10 @@
 "justine": "芮丝汀娜",
 "roselia millstein": "罗赛莉亚·米尔斯汀",
 "elaine auclair": "艾蕾因·奥克雷尔",
-"banri tada": "多田万里"
+"banri tada": "多田万里",
+"inojin yamanaka": "山中井阵",
+"kendall perkins": "肯黛尔·柏金",
+"amane suou": "周防天音"
 },
 "f": {
 "age progression": "年龄增长",
@@ -36936,7 +36939,9 @@
 "yarinaoshi reijou wa ryuutei heika wo kouryakuchuu": "重生大小姐正在攻略龙帝陛下",
 "gakuen alice": "爱丽丝学园",
 "a hat in time": "时光之帽",
-"invader zim": "外星入侵者ZIM"
+"invader zim": "外星入侵者ZIM",
+"tower of god": "神之塔",
+"kick buttowski suburban daredevil": "冒险王奇克"
 },
 "r": {
 "doujinshi": "同人志",
