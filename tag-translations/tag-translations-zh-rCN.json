@@ -13816,7 +13816,8 @@
 "rita": "りた",
 "eggutarto": "エッグタルト",
 "flasher": "ふらっしゃー",
-"zurita": "ずり太"
+"zurita": "ずり太",
+"onkyu": "オンキュウ"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -19981,7 +19982,7 @@
 "suzumiya suzume": "雀宮すずめ",
 "teto kasane": "重音teto",
 "shu ouma": "樱满集",
-"hare menjoume": "校条祭",
+"hare menjou": "校条祭",
 "vivian banshee": "薇薇安",
 "lain paterson": "兰·帕特森",
 "usugumo": "薄云",
@@ -33768,7 +33769,8 @@
 "morigami no yashiro": "森神的社",
 "line out": "ラインアウト",
 "tamazushi": "珠寿司",
-"haizuriya": "はいずり屋"
+"haizuriya": "はいずり屋",
+"tetsuyashiki": "铁屋敷"
 },
 "l": {
 "afrikaans": "南非语",
@@ -34461,13 +34463,13 @@
 "extraneous ads": "外部广告",
 "figure": "手办",
 "full color": "全彩",
-"game sprite": "像素画",
 "how to": "教程",
 "multipanel sequence": "多格序列",
 "multi-work series": "系列作品",
 "non-h game manual": "无H游戏手册",
 "non-h imageset": "无H图片集",
 "paperchild": "纸片人",
+"pixel art": "像素画",
 "redraw": "重绘",
 "screenshots": "截图",
 "sketch lines": "线稿",
@@ -34509,6 +34511,7 @@
 "no penetration": "无插入",
 "nudity only": "仅裸体",
 "object insertion only": "仅物体插入",
+"classroom": "教室",
 "onsen": "温泉",
 "sentou": "浴场"
 },
