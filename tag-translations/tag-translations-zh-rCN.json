@@ -3,6 +3,7 @@
 "female": "女性",
 "male": "男性",
 "mixed": "混合",
+"location": "地点",
 "language": "语言",
 "other": "其他",
 "group": "团队",
@@ -3596,7 +3597,7 @@
 "jj": "jj",
 "sesena yau": "せせなやう",
 "cai pi jun": "菜さん",
-"hara": "はらへら（へら）",
+"hara": "はらへら",
 "nenobi": "子野日",
 "maki hideto": "牧秀人",
 "sahara ikkou": "佐原一光",
@@ -13890,7 +13891,10 @@
 "asla": "アスラ",
 "nasubi ninja": "なすびニンジャ",
 "dk. senie": "Dκ. Senie",
-"monota": "ものた"
+"monota": "ものた",
+"microa": "Microa",
+"irokohaku": "色琥珀",
+"shake chazuke": "しゃけちゃづけ"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -14020,7 +14024,13 @@
 "jiuqi": "九柒喵",
 "blacqkl": "白莉爱吃巧克力",
 "nyako": "Nyako喵子",
-"hachi": "Hachi小芭"
+"hachi": "Hachi小芭",
+"umeko j": "Umeko J",
+"arashi heartgramm": "Arashi Heartgramm",
+"messie huang": "Messie Huang",
+"yamisung": "Yamisung",
+"demon mika": "Demon Mika",
+"yamazaki reina": "山崎レイナ"
 },
 "c": {
 "alice": "爱丽丝",
@@ -20153,7 +20163,10 @@
 "rakshasi": "铁扇公主",
 "professor oak": "大木博士",
 "vanellope von schweetz": "云妮洛普·凡史威兹",
-"taffyta muttonfudge": "太妃糖"
+"taffyta muttonfudge": "太妃糖",
+"massachusetts": "马萨诸塞",
+"kongiku": "绀菊",
+"okoi": "阿恋"
 },
 "f": {
 "age progression": "年龄增长",
@@ -34704,12 +34717,7 @@
 "kodomo only": "仅儿童",
 "no penetration": "无插入",
 "nudity only": "仅裸体",
-"object insertion only": "仅物体插入",
-"bathing room": "浴室",
-"beach": "沙滩",
-"classroom": "教室",
-"onsen": "温泉",
-"sentou": "浴场"
+"object insertion only": "仅物体插入"
 },
 "p": {
 "original": "原创",
@@ -37160,7 +37168,13 @@
 "konohana kitan": "此花绮谭",
 "grisaia phantom trigger": "灰色：幻影扳机",
 "b-robo kabutack": "铁甲小宝",
-"perfect blue": "未麻的部屋"
+"perfect blue": "未麻的部屋",
+"wreck it ralph": "无敌破坏王",
+"ruby gillman teenage kraken": "变身吉妹",
+"clarence": "我爱阿噗",
+"elden ring nightreign": "艾尔登法环黑夜君临",
+"black survival": "黑色幸存者",
+"ruri no houseki": "琉璃的宝石"
 },
 "r": {
 "doujinshi": "同人志",
