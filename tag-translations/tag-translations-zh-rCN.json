@@ -12083,7 +12083,7 @@
 "sisyamo 2 percent": "sisyamo2%",
 "metacora": "めたこら",
 "kangoku meika": "監獄銘菓",
-"souseki": "層積",
+"souseki": "层积",
 "manno": "まんの",
 "tamada heijun": "玉田平準",
 "nagai go": "永井豪",
@@ -13913,7 +13913,13 @@
 "odochi": "おどち",
 "an-telin": "an-telin",
 "bonbaie": "盆場家",
-"baiqin hyakkin": "百禽Hyakkin"
+"baiqin hyakkin": "百禽Hyakkin",
+"qr": "QR",
+"inaba reito": "稲葉れいと",
+"kajiking": "家事王",
+"periodo": "ピリオド",
+"kan-non ritsu": "观音リツ",
+"san p. dro": "San P. dro"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -18586,7 +18592,7 @@
 "romin kirishima": "雾岛露明",
 "yuzu hiiragi": "柊柚子",
 "sera": "塞拉",
-"chloe": "小春",
+"chloe": "克洛伊(黑兽) | 小春",
 "stella vermillion": "史黛菈·法米利昂",
 "ikki kurogane": "黑铁一辉",
 "bort": "圆粒金刚石",
@@ -20242,7 +20248,19 @@
 "yuuki wakura": "和仓优希",
 "yumina urnea belfast": "由美娜·艾尔涅雅·贝尔法斯特",
 "mei mei": "冥冥",
-"shizuku yaegashi": "八重㭴雫"
+"shizuku yaegashi": "八重㭴雫",
+"rei miyamoto": "宫本丽",
+"yukino mifuyu": "雪乃深冬",
+"iuno": "尤诺",
+"tino shade": "蒂诺·薛德",
+"ninym ralei": "妮妮姆·拉雷",
+"mariabelle": "玛莉亚贝尔",
+"kaguya": "辉夜",
+"prim fiorire": "普莉姆·菲尔丽热",
+"modeus": "墨狄斯",
+"haruka takamori": "鹰守遥",
+"zima": "凛冬",
+"koshimizu toru": "小清水透"
 },
 "f": {
 "age progression": "年龄增长",
@@ -34069,7 +34087,11 @@
 "kyabiramuuru": "キャビラムール",
 "one or eight": "ワンオアエイト",
 "tonikakuushi": "イチヒ",
-"hiyashi makura": "ひやしまくら"
+"hiyashi makura": "ひやしまくら",
+"midareuchi": "乱れ击ち",
+"otogidou": "オトギ堂",
+"shirokuma dango": "しろくまだんご",
+"muru no honbako": "ムルの本箱"
 },
 "l": {
 "afrikaans": "南非语",
@@ -37268,7 +37290,9 @@
 "elden ring nightreign": "艾尔登法环黑夜君临",
 "black survival": "黑色幸存者",
 "ruri no houseki": "琉璃的宝石",
-"kawarazaki-ke no ichizoku": "河原崎家的一族"
+"kawarazaki-ke no ichizoku": "河原崎家的一族",
+"nageki no bourei ha intai shitai": "叹气的亡灵想隐退",
+"shinmai renkinjutsushi no tenpo keiei": "新人炼金术师的店铺经营"
 },
 "r": {
 "doujinshi": "同人志",
