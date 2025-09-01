@@ -75,11 +75,12 @@ if __name__ == "__main__":
     files = (
         ('rows.md', 'n'),
         ('artist.md', 'a'),
-        ('cosplayer.md', 'cos'),
         ('character.md', 'c'),
+        ('cosplayer.md', 'cos'),
         ('female.md', 'f'),
         ('group.md', 'g'),
         ('language.md', 'l'),
+        ('location.md', 'loc'),
         ('male.md', 'm'),
         ('mixed.md', 'x'),
         ('other.md', 'o'),
