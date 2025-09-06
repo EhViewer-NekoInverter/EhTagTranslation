@@ -13954,7 +13954,8 @@
 "shishamo": "ししゃも",
 "yuetsu saru": "愉悦さる",
 "nantoka": "なンとか",
-"nanameno hayuta": "七芽乃はゆた"
+"nanameno hayuta": "七芽乃はゆた",
+"takafuji": "髙藤"
 },
 "c": {
 "alice": "爱丽丝",
@@ -14172,7 +14173,7 @@
 "ta-class": "战舰TA级",
 "wo-class": "空母WO级",
 "teitoku": "提督",
-"nagato": "长门",
+"nagato": "长门 | 鲨",
 "mutsu": "陆奥",
 "ise": "伊势",
 "hyuuga": "日向",
@@ -14181,7 +14182,7 @@
 "kaga": "加贺",
 "souryuu": "苍龙",
 "hiryuu": "飞龙",
-"shimakaze": "岛风",
+"shimakaze": "岛风 | 芒",
 "fubuki": "吹雪",
 "shirayuki": "白雪",
 "hatsuyuki": "初雪",
@@ -14225,7 +14226,7 @@
 "myoukou": "妙高",
 "ashigara": "足柄",
 "haguro": "羽黑",
-"takao": "高雄",
+"takao": "高雄 | 獒",
 "atago": "爱宕",
 "choukai": "鸟海",
 "tone": "利根",
@@ -14281,8 +14282,8 @@
 "noshiro": "能代",
 "yahagi": "矢矧",
 "sakawa": "酒匂",
-"musashi": "武藏",
-"taihou": "大凤",
+"musashi": "武藏 | 鳄",
+"taihou": "大凤 | 鹩",
 "katori": "香取",
 "i-401": "伊401",
 "akitsu maru": "秋津丸",
@@ -14302,7 +14303,7 @@
 "ryuuhou": "龙凤",
 "tokitsukaze": "时津风",
 "unryuu": "云龙",
-"amagi": "天城",
+"amagi": "天城 | 鳐",
 "harusame": "春雨",
 "hayashimo": "早霜",
 "kiyoshimo": "清霜",
@@ -17092,7 +17093,7 @@
 "gendo ikari": "碇源堂",
 "kensou sie": "椎拳崇",
 "andy bogard": "安迪·博加德",
-"azuma": "吾妻",
+"azuma": "吾妻 | 猉",
 "gorgon": "戈尔贡",
 "repulse": "反击",
 "north carolina": "北卡罗来纳",
@@ -19168,7 +19169,7 @@
 "degenbrecher": "锏",
 "saileach": "琴柳",
 "pekoras mother": "佩克拉妈咪",
-"unzen": "云仙",
+"unzen": "云仙 | 猃",
 "mualani": "玛拉妮",
 "shiori fujisaki": "藤崎诗织",
 "kiwi araga": "阿良河基维",
@@ -20201,7 +20202,9 @@
 "haruka shino": "遥（紫野遥）",
 "mulberry": "桑葚",
 "nicole watterson": "妮蔻·沃特森",
-"tina howard": "蒂娜·霍华德"
+"tina howard": "蒂娜·霍华德",
+"lisara restall": "莉萨拉·雷斯托",
+"eve 07": "伊芙（剑星）"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -37399,7 +37402,8 @@
 "nageki no bourei ha intai shitai": "叹气的亡灵想隐退",
 "shinmai renkinjutsushi no tenpo keiei": "新人炼金术师的店铺经营",
 "atri": "亚托莉-我挚爱的时光",
-"katainaka no ossan kensei ni naru": "乡下大叔成为剑圣"
+"katainaka no ossan kensei ni naru": "乡下大叔成为剑圣",
+"dakara boku wa h ga dekinai": "美少女死神还我H之魂"
 },
 "r": {
 "doujinshi": "同人志",
