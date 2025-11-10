@@ -14154,7 +14154,9 @@
 "meis": "メイス",
 "sanadame": "さなだめ",
 "kuroyama yuu": "黒山有",
-"yunachi": "ゆなち"
+"yunachi": "ゆなち",
+"getsumen chakuriku": "月面着陸",
+"esebayashi efu": "エセ林エフ"
 },
 "c": {
 "alice": "爱丽丝",
@@ -16032,7 +16034,7 @@
 "flora": "芙洛拉",
 "hinoka": "日乃香",
 "tharja": "萨利娅",
-"sakura": "樱",
+"sakura": "樱花",
 "joker": "小丑",
 "rinkah": "燐火",
 "tiki": "芝琪",
@@ -16219,7 +16221,7 @@
 "taiki shuttle": "大树快车",
 "neptune": "涅普迪努",
 "noire": "诺瓦尔",
-"blanc": "布兰",
+"blanc": "布兰 | 布兰儿",
 "vert": "贝露",
 "peashy": "皮榭",
 "plutia": "普露露特",
@@ -16491,7 +16493,7 @@
 "strelizia": "鹤望兰号",
 "hiro": "广",
 "alice liddell": "爱丽丝·李道尔",
-"cinderella": "辛德瑞拉",
+"cinderella": "灰姑娘 | 辛德瑞拉",
 "noa himesaka": "姬坂乃爱",
 "miyako hoshino": "星野宫子",
 "hana shirosaki": "白咲花",
@@ -16786,7 +16788,7 @@
 "stephanie": "史蒂芬妮",
 "stephanie dola": "史蒂芬妮·多拉",
 "jibril": "吉普莉尔",
-"sora": "空 | 小空",
+"sora": "空 | 小空 | 索拉",
 "chizuru ichinose": "一之濑千鹤（水原千鹤）",
 "kazuya kinoshita": "木之下和也",
 "sukoya kana": "健屋花那",
@@ -18829,7 +18831,7 @@
 "nemuri kayama": "香山睡",
 "chiori": "千织",
 "shuro yabuki": "箭吹棕榈",
-"blade": "刃",
+"blade": "布莱德 | 刃",
 "astesia": "星极",
 "ichika nakamasa": "仲正一花",
 "nodoka amami": "天见和香",
@@ -20480,7 +20482,7 @@
 "suou asagiri": "朝雾周防",
 "aventurine": "砂金",
 "halford": "哈尔福德",
-"wilhelmina": "威廉明娜（棕色尘埃2）",
+"wilhelmina": "威廉明娜",
 "sylvia": "席比雅",
 "galatea": "伽拉忒亚",
 "mimori tougou": "东乡美森",
@@ -20578,7 +20580,17 @@
 "mamori tokonome": "处女守",
 "gawain": "高文",
 "indra": "因陀罗",
-"ordinary woman": "一般女性"
+"ordinary woman": "一般女性",
+"scarlet el vandimion": "斯嘉丽·艾尔·范迪米昂",
+"isabel": "伊莎贝尔",
+"nihilister": "尼希利斯塔",
+"mermaid": "小美人鱼",
+"teresse": "泰瑞丝",
+"nebris": "内布利斯",
+"zenith": "杰尼斯",
+"loen": "罗安",
+"liberta": "黎维塔",
+"gouden leeuw": "金狮"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -37926,7 +37938,8 @@
 "kamen rider gavv": "假面骑士加布",
 "kowloon generic romance": "九龙大众浪漫",
 "ninpuu sentai hurricaneger": "忍风战队破里剑者",
-"mashin sentai kiramager": "魔进战队煌辉者"
+"mashin sentai kiramager": "魔进战队煌辉者",
+"saigo ni hitotsu dake onegai shite mo yoroshii deshou ka": "最后可以再拜托您一件事吗？"
 },
 "r": {
 "doujinshi": "同人志",
