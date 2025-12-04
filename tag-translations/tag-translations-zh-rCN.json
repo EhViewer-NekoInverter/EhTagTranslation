@@ -891,7 +891,7 @@
 "raven": "RAVEN",
 "sujoyushi": "酢醤油氏",
 "date": "DATE",
-"kase daiki": "加瀬大輝",
+"kase daiki": "加濑大辉",
 "nakamura kumarin": "中村くまりん",
 "masago": "まさご",
 "ron": "RON",
@@ -14419,7 +14419,9 @@
 "1 dot migi ni zurashite kudasai": "1ドット右にずらしてください",
 "nanten": "南天",
 "satou suplex": "佐藤スープレックス",
-"sawarabi": "早蕨"
+"sawarabi": "早蕨",
+"sirokuro-dharma": "白黒だるま",
+"kazayuki kaya": "風雪花夜"
 },
 "c": {
 "alice": "爱丽丝",
@@ -21017,7 +21019,7 @@
 "hongryeon": "C-77红莲",
 "sekhmet": "赛克麦特",
 "cerestia": "塞蕾斯缇雅",
-"black lilith": "黑莉莉丝",
+"black lilith": "黑莉莉丝 | 黑之莉莉丝",
 "kyrie ushiromiya": "右代宫雾江",
 "black wyrm": "黑龙S9",
 "alcyone": "阿尔库俄涅",
@@ -21691,7 +21693,15 @@
 "natsumi obata": "小幡夏美",
 "yui obata": "小幡优衣",
 "reika kurashiki": "仓敷丽华",
-"reina kurashiki": "仓敷玲奈"
+"reina kurashiki": "仓敷玲奈",
+"belial": "业火之彼列",
+"snow": "雪诺",
+"honou no heine": "炎之海涅",
+"alice kisaragi": "如月爱丽丝",
+"astaroth": "阿斯塔蒂 | 阿斯塔特",
+"mei yoneme": "米女芽衣",
+"cure friendly": "犬饲彩羽",
+"cure wonderful": "犬饲小麦"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -35891,7 +35901,11 @@
 "peimond": "ペイモンド",
 "tonosama penguin": "殿様ペンギン",
 "seiki no hero": "性器のHERO",
-"chotto b-sen": "ちょっとB専"
+"chotto b-sen": "ちょっとB専",
+"daraku sanpo": "堕落さんぽ",
+"tsuchinoko shigure": "つちのこしぐれ",
+"inugoya": "狗戌犬",
+"fujinoe honpo": "フジノエ本舗"
 },
 "l": {
 "afrikaans": "南非语",
@@ -39224,7 +39238,8 @@
 "kibou no chikara otona pretty cure 23": "希望的力量～大人的光之美少女`23",
 "gachiakuta": "废渊战鬼",
 "ansatsusha de aru ore no status ga yuusha yori mo akiraka ni tsuyoi no da ga": "身为暗杀者的我明显比勇者还强",
-"tomodachi game": "朋友游戏"
+"tomodachi game": "朋友游戏",
+"sentouin hakenshimasu": "战斗员派遣中!"
 },
 "r": {
 "doujinshi": "同人志",
