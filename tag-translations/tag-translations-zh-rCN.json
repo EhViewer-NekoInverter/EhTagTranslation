@@ -4577,7 +4577,7 @@
 "chabin": "茶瓶",
 "chabo": "茶鳥",
 "chaccu": "chaccu",
-"chado": "茶戸",
+"chado": "茶户",
 "chagata": "ちゃがた",
 "chagu": "ちゃぐ",
 "chaigidhiell": "カイギディエル",
@@ -14731,7 +14731,13 @@
 "okurahokori": "おくらほこり",
 "dodomesu3sei": "ドドメス3世",
 "comichi pota": "こみちぽた",
-"masu": "ます"
+"masu": "ます",
+"tsumeshi nana": "ツメシ七",
+"koeda mameko": "小枝まめ子",
+"natane tsuyu": "菜種梅雨",
+"kamiwo akira": "亮カミヲ",
+"hagger": "はがー",
+"foot croft": "Foot croft"
 },
 "c": {
 "alice": "爱丽丝",
@@ -22691,7 +22697,18 @@
 "aug": "AUG",
 "rokuro okajima": "冈岛绿郎（洛克）",
 "cutter": "刻刀",
-"android 17": "人造人17号"
+"android 17": "人造人17号",
+"tikoh": "缇可",
+"akiko ayase": "绫濑亚季子",
+"tio": "缇奥·库拉鲁斯",
+"azami": "薊",
+"konoha koga": "古贺木叶",
+"alisa bosconovitch": "亚莉莎·伯斯科诺维奇",
+"miary zo": "米娅莉·佐",
+"jodie karen bakuryuu": "裘蒂‧爆龙‧卡莲",
+"ume mizunoe": "水之江梅",
+"komaro michinoko": "陆奥小麻吕",
+"yuta okkotsu": "乙骨忧太"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -36010,7 +36027,7 @@
 "hitakamoya": "ひたかもや",
 "kasokuiki": "過疎区域",
 "khaos distance": "カオス距離",
-"tohosanhun": "徒歩三分",
+"tohosanhun": "徒步三分",
 "morunchi": "モルチ",
 "gutsutoma": "ぐつとま",
 "kaiten paradogs": "回転ParaDOGs",
@@ -37086,7 +37103,14 @@
 "nanohana jam": "なのはなジャム",
 "treedrop": "TreeDrop",
 "fuwatoro opanchu cake": "ふわとろおぱんちゅケーキ",
-"ekaran ringo": "えからん林檎"
+"ekaran ringo": "えからん林檎",
+"short kami": "short_kami",
+"shichikusa-gayu": "シチ草粥",
+"parapluie": "parapluie",
+"anko strawberry": "あんこストロベリー",
+"onakin data land": "オナ禁データランド",
+"pizuneru": "ぴずねる",
+"onoko ya honpo": "おのこ屋本舗"
 },
 "l": {
 "afrikaans": "南非语",
@@ -40495,11 +40519,12 @@
 "magical taruruuto-kun": "幻法小魔星",
 "reibaishi izuna": "灵媒师东名",
 "yotaka futatabi": "夜鹰再临",
-"ninja to koroshiya no futarigurashi": "忍者×杀手二人组的日常生活",
+"ninja to koroshiya no futarigurashi": "忍者与杀手的同住日常",
 "project kv": "Project KV",
 "bishoujo kamen poitrine": "美少女假面珀怀特琳",
 "doki doki majo shinpan": "心跳魔女神判",
-"fate strange fake": "命运-奇异赝品"
+"fate strange fake": "命运-奇异赝品",
+"gameoverse": "通关失败"
 },
 "r": {
 "doujinshi": "同人志",
