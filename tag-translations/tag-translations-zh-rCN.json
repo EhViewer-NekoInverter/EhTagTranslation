@@ -7021,7 +7021,7 @@
 "kokuu rikishi": "虚空力士",
 "kolgha": "コルガー",
 "kom": "Kom",
-"koma": "KOMA",
+"koma": "koma",
 "komac": "鼓膜",
 "komagata": "狛形",
 "komaki ren": "小巻恋",
@@ -15116,7 +15116,10 @@
 "kasa": "かさ",
 "hanana": "はなな",
 "hiji chaba": "ひじ茶葉",
-"hato tsumugi": "鳩ツムギ"
+"hato tsumugi": "鳩ツムギ",
+"ante90": "ANTE90",
+"hongcha": "HONGCHA",
+"gyuunyuu pack": "牛乳パック"
 },
 "c": {
 "alice": "爱丽丝",
@@ -23862,7 +23865,20 @@
 "winry rockbell": "温莉·洛克贝尔",
 "subaru kakehashi": "梯 昴",
 "nicole reeyn": "尼可·莱恩",
-"ichika amasawa": "天泽一夏"
+"ichika amasawa": "天泽一夏",
+"sousuke sagara": "相良宗介",
+"teletha tessa testarossa": "泰蕾莎·泰丝塔罗莎",
+"wiene": "薇妮",
+"heith velvet": "海慈·贝鲁佩特",
+"aisha belka": "阿伊莎·贝尔卡",
+"airmid teasanare": "阿蜜德·特亚萨纳雷",
+"riveria ljos alf": "里维莉亚·利欧斯·阿尔弗",
+"alfia": "阿尔霏亚",
+"welf crozzo": "韦尔夫·克洛",
+"cassandra ilion": "卡珊德拉·伊利翁",
+"asfi al andromeda": "亚丝菲·阿尔·安朵美达",
+"chloe rollo": "可萝伊·洛洛",
+"charlotte zenfis": "夏洛特·泽菲斯"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -38494,7 +38510,8 @@
 "nunpokojin": "ヌンポコジン",
 "aizuan": "あいづ庵",
 "neko happyaku": "ねこはっぴゃく",
-"donguri kinoko": "どんぐりきのこ"
+"donguri kinoko": "どんぐりきのこ",
+"momo-chan attack": "ももちゃんあたっく"
 },
 "l": {
 "afrikaans": "南非语",
@@ -42003,7 +42020,9 @@
 "pragmata": "识质存在",
 "poppin-play kitchen": "波比的玩乐厨房",
 "neverness to everness": "异环",
-"baywatch": "海滩救护队"
+"baywatch": "海滩救护队",
+"shinobi no ittoki": "忍之一时",
+"jitsu wa ore saikyou deshita": "其实我是最强的？"
 },
 "r": {
 "doujinshi": "同人志",
