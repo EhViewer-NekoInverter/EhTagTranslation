@@ -759,7 +759,7 @@
 "red-rum": "RED-RUM",
 "ryoh-zoh": "椋蔵",
 "shouji nigou": "庄司二号",
-"henrybird": "半里バード9",
+"henrybird": "半里バード",
 "homing": "ホーミング",
 "kageno illyss": "影乃いりす",
 "katou jun": "加藤じゅん",
@@ -15323,7 +15323,13 @@
 "momoiro onsen": "桃色温泉",
 "morino kuma": "森乃くま",
 "h.txt": "H.txt",
-"boole": "boole"
+"boole": "boole",
+"mikoshiba": "御子柴",
+"korra": "コッラ",
+"toriyoshi": "とりよし",
+"catzz": "catzz",
+"marisayaka": "まりさやか",
+"wano umi": "和野うみ"
 },
 "c": {
 "alice": "爱丽丝",
@@ -19286,7 +19292,7 @@
 "kazusa kyouyama": "杏山和纱",
 "mahiru shiina": "椎名真昼",
 "margot knight": "玛戈特·奈特",
-"malga naruze": "玛伽·成濑",
+"malga naruze": "玛鲁伽·纳尔杰",
 "evangeline a.k. mcdowell": "依文洁琳·安塔娜西亚·凯蒂·麦道威尔",
 "momosuzu nene": "桃铃音音",
 "omaru polka": "尾丸波尔卡",
@@ -24453,7 +24459,18 @@
 "maggie mcginnis": "玛姬·麦金尼斯",
 "harriet wolf": "克莱蒂 狼",
 "rinto kagamine": "镜音铃人",
-"mikuo hatsune": "初音未来 [男版]"
+"mikuo hatsune": "初音未来 [男版]",
+"ponto nei": "先斗宁",
+"amata sora": "阿马塔·空",
+"andy w. hole": "安迪·W·霍尔",
+"jin muso": "金无双",
+"yunoha thrul": "柚叶·苏尔",
+"kagura demuri": "神乐·迪姆利",
+"gin tachibana": "立花·訚",
+"juana": "胡安娜",
+"muneshige tachibana": "立花·宗茂",
+"ragatha": "雅加塔",
+"pomni": "帕姆尼"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -39214,7 +39231,10 @@
 "stick": "すてぃっく",
 "mousou bunny": "妄想☆ばにぃ",
 "nagasaki irohatei": "長崎いろは邸",
-"typeh": "TypeH"
+"typeh": "TypeH",
+"ototoi n": "オトトイN",
+"esuneko no ichi": "えすねこのいち",
+"20nt": "20NT"
 },
 "l": {
 "afrikaans": "南非语",
