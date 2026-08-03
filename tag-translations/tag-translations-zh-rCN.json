@@ -2843,7 +2843,7 @@
 "hanao.": "熊尾もふもふ",
 "otokura ringo": "乙倉りんご",
 "rougetu": "胧月",
-"ryuga syo": "龍牙翔",
+"ryuga syo": "龙牙翔（龍牙翔）",
 "kurage modoki": "くらげもどき",
 "oozora wakaba": "大空若叶",
 "nigirimeshi": "にぎりめし",
@@ -6875,7 +6875,7 @@
 "kirisaki mocori": "切裂モコリ",
 "kirisawa shinji": "桐沢しんじ",
 "kirisawa tokito": "きりさわときと",
-"kirise": "キリセ",
+"kirise": "切世（キリセ）",
 "kirise mitsuru": "霧瀬ミツル",
 "kirishima fuuki": "霧島ふうき",
 "kirishima riona": "桐島りおな",
@@ -15484,7 +15484,9 @@
 "urushibara yasuhiro": "漆原ヤスヒロ",
 "papicolo": "パピコロ",
 "mashio": "真汐",
-"kuararin": "くあらりん"
+"kuararin": "くあらりん",
+"tokito setsuna": "時任せつな",
+"barukan": "バルカン"
 },
 "c": {
 "alice": "爱丽丝",
@@ -25013,7 +25015,14 @@
 "aihan": "艾函",
 "senai": "瑟乃",
 "shizuru nakatsu": "中津静流",
-"akaza": "猗窝座"
+"akaza": "猗窝座",
+"lucia konohana": "此花露西娅",
+"akane senri": "千里朱音",
+"chihaya ohtori": "凤千早",
+"kotarou tennouji": "天王寺瑚太朗",
+"sakuya ohtori": "凤咲夜",
+"ardelia": "艾尔黛拉",
+"kako-hakase": "过去博士"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -39874,7 +39883,10 @@
 "tsunnomeri": "ツンノメリ",
 "rimiaro": "りみあろ",
 "oshimai": "おしまい",
-"buzamadera": "無様寺"
+"buzamadera": "無様寺",
+"forget me not": "forget me not",
+"chikyuugai seimeitai mokyu": "地球外生命体☆モキュ(ﾟ∞ﾟ)",
+"p.w.": "P.W.(パスワード)"
 },
 "l": {
 "afrikaans": "南非语",
@@ -40647,7 +40659,7 @@
 "clannad": "CLANNAD",
 "angel beats": "天使的心跳",
 "charlotte": "Charlotte",
-"little busters": "Little Busters!⚾",
+"little busters": "Little Busters!",
 "rewrite": "Rewrite",
 "ore no imouto ga konna ni kawaii wake ga nai": "我的妹妹不可能那么可爱",
 "kantai collection": "舰队Collection",
