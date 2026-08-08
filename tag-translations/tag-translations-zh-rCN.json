@@ -2843,7 +2843,7 @@
 "hanao.": "熊尾もふもふ",
 "otokura ringo": "乙倉りんご",
 "rougetu": "胧月",
-"ryuga syo": "龙牙翔（龍牙翔）",
+"ryuga syo": "龙牙翔",
 "kurage modoki": "くらげもどき",
 "oozora wakaba": "大空若叶",
 "nigirimeshi": "にぎりめし",
@@ -9009,7 +9009,7 @@
 "oniben katze": "鬼遍かっつぇ",
 "oniku": "お肉",
 "oniku.": "お肉。",
-"onineko": "鬼猫（おにねこ）",
+"onineko": "鬼猫",
 "onita": "歐尼鬼",
 "oniyama": "鬼山",
 "oniyuri": "オニユリ",
@@ -15512,7 +15512,10 @@
 "shurinpu": "酒りんぷ",
 "totoko": "虎兎子",
 "shiromina tarou": "しろみなたろう",
-"hapirorina": "はぴろり菜"
+"hapirorina": "はぴろり菜",
+"so-ryu": "惣流",
+"reankh": "りーあんく",
+"ohba kagerou": "大场阳炎"
 },
 "c": {
 "alice": "爱丽丝",
@@ -16728,7 +16731,7 @@
 "yuuta segawa": "濑川佑太",
 "raika oda": "织田莱香",
 "miia": "米亚",
-"centorea shianus": "珊卓蕾亚·夏努斯",
+"centorea shianus": "赛尔特蕾娅",
 "papi": "帕皮",
 "suu": "丝",
 "lala": "拉拉",
@@ -25072,7 +25075,7 @@
 "kaede agatsuma": "吾妻枫",
 "ume matsuzaka": "松坂梅",
 "miria saeki": "佐伯米莉亚",
-"yuki tsukishiro": "月代雪（月代ユキ）",
+"yuki tsukishiro": "月代雪",
 "stainless": "白铁",
 "charmcaster": "邪咒魔女",
 "lucy mann": "露西·曼",
@@ -25090,7 +25093,21 @@
 "junyi guo": "郭君怡",
 "qingxuan xiao": "肖青璇",
 "yuxi ning": "宁雨昔",
-"ilya": "伊莉亚"
+"ilya": "伊莉亚",
+"osage-chan": "小辫子酱",
+"meruru hikami": "冰上梅露露",
+"cosette": "科赛特",
+"scott pilgrim": "斯科特·皮尔格林",
+"neil nordegraf": "尼尔·诺德格拉夫",
+"kaya satou": "佐藤神八",
+"silco": "希尔科",
+"anyango": "安扬戈",
+"rirui": "莉露",
+"tamsy caines": "塔姆吉·凯恩斯",
+"rubia": "露比雅",
+"wanyan luo": "洛绾嫣",
+"andrea doria": "安德烈亚·多利亚",
+"oumiya emma": "大宫惠麻"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -38417,7 +38434,7 @@
 "akirerushoujo": "アキレルショウジョ",
 "fuzume": "ふずめ",
 "hitakamoya": "ひたかもや",
-"kasokuiki": "过疏区域（過疎区域）",
+"kasokuiki": "过疏区域",
 "khaos distance": "カオス距離",
 "tohosanhun": "徒步三分",
 "morunchi": "モルチ",
@@ -39969,7 +39986,10 @@
 "ero doukoukai": "エロ同好会",
 "romomata": "ROMOMATA",
 "kanizagan": "かに座ガン",
-"yoerosun": "ヨエロ寸"
+"yoerosun": "ヨエロ寸",
+"ryu-saikan": "流彩館",
+"lacryma": "La'cryma",
+"raigyo": "ライギョ"
 },
 "l": {
 "afrikaans": "南非语",
@@ -43620,7 +43640,12 @@
 "ts mahou shoujo nao": "TS魔法少女闪",
 "bad thinking diary": "坏想法日记",
 "ji pin jia ding": "极品家丁",
-"rakudai kenja no gakuin musou": "落第贤者的学院无双"
+"rakudai kenja no gakuin musou": "落第贤者的学院无双",
+"fortissimo": "Fortissimo",
+"kaya-chan wa kowakunai": "神八小妹不可怕",
+"29-sai dokushin chuuken boukensha no nichijou": "29岁单身冒险家的日常",
+"orisries": "万源圣魔录",
+"hiseki shinki arcana saber": "秘迹神姬Arcana Saber"
 },
 "r": {
 "doujinshi": "同人志",
