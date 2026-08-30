@@ -2445,7 +2445,7 @@
 "yoshida iyo": "吉田 依世",
 "sakura oriko": "佐倉おりこ",
 "hinata yuu": "ひなた悠",
-"odawara hakone": "オダワラハコネ",
+"odawara hakone": "小田原箱根(オダワラハコネ)",
 "ikari": "いかり",
 "humuyun": "ふむゆん",
 "watagashi yui": "わたがしゆい",
@@ -2945,7 +2945,7 @@
 "kazawa": "かざわ",
 "nukaji": "ぬかじ",
 "negresco": "Negresco",
-"navia": "なびあ",
+"navia": "上村なびあ",
 "sagaraten": "纱柄天",
 "naoto": "naoto",
 "green": "GreeN",
@@ -15627,7 +15627,18 @@
 "sakaito": "逆糸",
 "chiruru": "ちるる",
 "anulita": "アヌリタ",
-"zawashi": "ざわし"
+"zawashi": "ざわし",
+"ajisawa aji": "鯵沢あじ",
+"aki hirame": "秋ひらめ",
+"asaka": "安佐川",
+"epi": "えぴ",
+"hadukinton": "はづきんとん",
+"nagumo naruse": "南雲なるせ",
+"parapara": "ぱらぱら",
+"shachou": "社長",
+"simejitake": "しめじたけ",
+"yuchiberu": "ユチberu",
+"ao paco": "まるかな正麺"
 },
 "c": {
 "alice": "爱丽丝",
@@ -25365,7 +25376,9 @@
 "shiroji": "白司",
 "kuukyo no sylvaril": "空虚的希尔瓦莉尔",
 "perugius dola": "佩尔基乌斯・朵拉",
-"tsaritsa": "安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅"
+"tsaritsa": "安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅",
+"scamp": "Scamp",
+"u-31": "U-31"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -40322,7 +40335,13 @@
 "banana senbei": "ばななせんべい",
 "shimimaru seisakusho": "紙魚丸製作所",
 "shichishinkan": "七心馆",
-"hatsui tsumo": "初井つも"
+"hatsui tsumo": "初井つも",
+"nigatsu no santousei": "二月の三等星",
+"epi nyuugyou": "えぴ乳業",
+"hadukitto": "はづきっと！",
+"hoikuen": "ほいくえん",
+"yuchiberurin": "ゆちべるりん",
+"mama no nioi": "ママの匂い"
 },
 "l": {
 "afrikaans": "南非语",
@@ -44022,7 +44041,8 @@
 "kyouran reijou nia liston": "乱世千金倪亚‧利斯顿",
 "pukey goddess shot trick": "酒鬼女神的酒诡",
 "honogurashi no niwa": "静谧田园",
-"domestic na kanojo": "家有女友"
+"domestic na kanojo": "家有女友",
+"barb wire": "越空追击"
 },
 "r": {
 "doujinshi": "同人志",
