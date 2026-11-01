@@ -2809,7 +2809,7 @@
 "sumii": "すみい",
 "ai takurou": "安威拓郎",
 "nagisora riku": "凪空りく",
-"minase": "御奈瀬",
+"minase": "御奈瀬 | 三七瀬",
 "niwacho": "niwacho",
 "yasaka syu": "矢坂しゅう",
 "nimuno": "にむの",
@@ -15835,7 +15835,9 @@
 "hondy": "ほんでぃ",
 "horochi": "歩路地",
 "ariatorai": "ありあとらい",
-"toushitu katamaru": "糖質過多丸"
+"toushitu katamaru": "糖質過多丸",
+"nido arai": "二度洗",
+"watari kaoru": "渡薫"
 },
 "c": {
 "alice": "爱丽丝",
@@ -21013,7 +21015,7 @@
 "mihara": "米哈拉",
 "bay": "贝伊",
 "brid": "布丽德",
-"tia": "蒂亚",
+"tia": "蒂亚 | 缇亚",
 "ludmilla": "鲁德米拉",
 "noir": "诺亚尔",
 "privaty": "普丽瓦蒂",
@@ -25900,12 +25902,19 @@
 "momoko takamachi": "高町桃子",
 "quint nakajima": "桂特·中岛",
 "megane alpine": "梅格奴·阿尔菲诺",
-"keijun seiki": "軽巡棲鬼",
+"keijun seiki": "轻巡栖鬼",
 "alicia forestlight": "亚莉希雅·福雷斯莱特",
 "otonari-san": "邻居小姐",
 "al azif": "艾尔·阿吉芙",
 "ginko tsukitsuba": "月锷银子",
-"cayna": "葵娜"
+"cayna": "葵娜",
+"masaki kurosaki": "黑崎真咲",
+"arclight": "弧光",
+"shion nasturtium": "紫苑·金莲花",
+"caroline inglaud": "卡罗琳·伊葛洛特",
+"rain hagwell": "莱恩·哈格韦尔",
+"prisoner veronica": "囚犯维罗妮卡",
+"xiaolan": "小兰"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -41059,7 +41068,9 @@
 "hotel shikinseki": "ホテル試金石",
 "tsukuneya": "つくね屋",
 "250ponoroji": "250歩の路地",
-"shoujo tetsugaku": "少女哲学"
+"shoujo tetsugaku": "少女哲学",
+"double shampoo": "だぶるしゃんぷ～",
+"okuchi no okuchi": "お口の奥地"
 },
 "l": {
 "afrikaans": "南非语",
